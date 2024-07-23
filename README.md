@@ -1,6 +1,6 @@
-# Hi there <img alt="wave" src="./assets/wave.gif" width="20px" />
+# Olá <img alt="wave" src="./assets/wave.gif" width="30px" />
 
-Olá meu nome é Lucas Adum e seja bem-vindo ao meu perfil do github.<br>
+Meu nome é Lucas Adum e seja bem-vindo ao meu perfil do github.<br>
 Estudo programação a 5 anos e trabalho como desenvolvedor **Backend** a 2 anos, espero que goste dos meus repositórios.<br>
 
 ### _Sempre em busca de expandir os conhecimentos._
